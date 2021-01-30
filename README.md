@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<a href="#"><img title="🐊RAMLAN🐊" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="🐊ILYASSS🐊" src="https://img.shields.io/badge/ILYAS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ilyas"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ILYAS-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666/sadbot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan666?color=blue&style=flat-square"></a>
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐋𝐀𝐍𝐍 𝐈𝐃
+### 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐈𝐥𝐲𝐚𝐬!
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -55,8 +55,8 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > pkg install mc
 > pkg install git
 > pkg install bash
-> git clone https://github.com/Ramlan666/sadbot
-> cd sadbot
+> git clone https://github.com/ilyaswilian/1
+> cd 1
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
@@ -66,15 +66,15 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 🐊Ramlan🐊`](https://saweria.co/ramlangans)
+* [`Donasi 🐊𝐈𝐥𝐲𝐚𝐬🐊`](https://saweria.co/ilyass)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
-* [`Group WhatsApp `](https://chat.whatsapp.com/Eb4niW86N3kHbMjgmdL4WU)
+* [`Youtube Admin`](https://youtube.com/c/IlyasWilian)
+* [`Instagram Admin`](https://instagram.com/cc2061338sdt)
+* [`WhatsApp Admin `](https://wa.me/+62895704283153)
+* [`Group WhatsApp `](https://chat.whatsapp.com/--------------------)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
