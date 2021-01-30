@@ -14,25 +14,25 @@ HALLO I'M RAMLAN :)
 SCRIPT HANYA UNTUK SAYA BELAJAR
 TOLONG JANGAN HAPUS TANDA PENGENAL PEMBUAT
 */
-const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
+const apivhtear = 'RAMLANGANS'; // APIKEY VHTEAR
 const apibarbar = 'YOUR_APIKEY'; // APIKEY MHANKBARBAR
 const tobzkey = 'YOUR_APIKEY'; // APIKEY TOBZ
 const vinzkey = 'YOUR_APIKEY'; // APIKEY ZEKS
-const BotName = 'SADBOTZ'; // GANTI PAKE NAMA BOT LU
-const wa = 'https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
-const ow = 'RAMLAN'; // GANTI PAKE NAMA MU
-const nomorowner = '085559240360'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
-const ovo = '0855-5924-0360'; // GANTI PAKE NOMOR OVO LU
-const pulsa = '0812-1444-1027'; // GANTI PAKE NOMOR PULSA LU
-const dana = '0855-5924-0360'; // GANTI PAKE NOMOR DANA LU
-const gopay = '0855-5924-0360'; // GANTI PAKE NOMOR GOPAY LU
-const instagram = 'http://www.instagram.com/iamramlan_'; // GANTI IG LU
-const aktif = '08:00 - 22:00'; // TERSERAH LU DAH INI
+const BotName = 'ILYAZZBOT'; // GANTI PAKE NAMA BOT LU
+const wa = 'https://chat.whatsapp.com/Fxst0s95Ob6EytuYBq5FkL'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
+const ow = 'ILYASW'; // GANTI PAKE NAMA MU
+const nomorowner = '0895704283153'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
+const ovo = '0895-7042-83153'; // GANTI PAKE NOMOR OVO LU
+const pulsa = '0895-7042-83153'; // GANTI PAKE NOMOR PULSA LU
+const dana = '0895-7042-83153'; // GANTI PAKE NOMOR DANA LU
+const gopay = '0895-7042-83153'; // GANTI PAKE NOMOR GOPAY LU
+const instagram = 'http://www.instagram.com/cc2061338sdt'; // GANTI IG LU
+const aktif = 'SESUAI INTERNET/SINYAL!'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n' // MAU NGAPAIN TOD
-  + 'FN:RAMLAN GANS\n' // GANTI PAKE NAMA MU
-  + 'ORG:OWNER BOT;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
-  + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
+  + 'FN:ILYASU\n' // GANTI PAKE NAMA MU
+  + 'ORG:OWNER ILYAS BOT;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
+  + 'TEL;type=CELL;type=VOICE;waid=62895704283153:+62 895-7042-83153\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
   + 'END:VCARD' // THANKS TO LANN ID
 // NOTE : UBAH YANG GUE SURUH UBAH AJA BIAR GAK ERROR
 const
@@ -120,10 +120,10 @@ conn.sendMessage(id, 'Waalaikumsalam, Ada yang bisa saya bantu? kalo bingung ket
 conn.sendMessage(id, 'Waalaikumsalam, Ada yang bisa saya bantu? kalo bingung ketik !menu ya kak🤗...' ,MessageType.text);
 }
  if (text == 'p'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik !menu ya ngentot..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik !menu ya koh..' ,MessageType.text);
 }
  if (text == 'P'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik !menu ya ngentot..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik !menu ya koh..' ,MessageType.text);
 }
  if (text == 'Halo'){
 conn.sendMessage(id, 'Hallo kak, Ada yang bisa saya bantu? kalo bingung ketik !menu ya kak🤗...' ,MessageType.text);
@@ -131,11 +131,11 @@ conn.sendMessage(id, 'Hallo kak, Ada yang bisa saya bantu? kalo bingung ketik !m
  if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
- if (text == 'Ramlan'){
+ if (text == 'Ilyass'){
 conn.sendMessage(id, 'Itu owner ku:)' ,MessageType.text);
 }
- if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pingin ngentod?' ,MessageType.text);
+ if (text == 'Bawang'){
+conn.sendMessage(id, 'apa apelllkuuu?' ,MessageType.text);
 }
  if (text == 'Anjing'){
 conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
@@ -150,7 +150,7 @@ conn.sendMessage(id, 'Test 1,2,3 ketik !menu' ,MessageType.text);
 conn.sendMessage(id, 'Hai juga, Ada yang bisa saya bantu? kalo bingung ketik !menu ya kak🤗...' ,MessageType.text);
 }
  if (text == 'Woi'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik !menu ya ngentot..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik !menu ya Koh..' ,MessageType.text);
 } 
  if (text == 'Hi'){
 conn.sendMessage(id, 'Hi juga, Ada yang bisa saya bantu? kalo bingung ketik !menu ya kak🤗...' ,MessageType.text);
@@ -217,9 +217,9 @@ conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.tex
   if (text.includes('!menu')) {
     var nomor = m.participant
     const options = {
-      text: `*Hallo @${nomor.split("@s.whatsapp.net")[0]} I'm ${BotName}*
+      text: `*Hallo @${nomor.split("@s.whatsapp.net")[0]} I'm ${ilyas}*
 ╔════════════════════
-║───────⟪ ${BotName}⟫───────
+║───────⟪ ${ilyasw}⟫───────
 ╠════════════════════
 ║➸ *!owner*
 ║➸ *!donasi*
@@ -239,13 +239,13 @@ conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.tex
 ║➸ *!other*
 ║➸ *!download*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`,
       contextInfo: { mentionedJid: [nomor] }
     }
@@ -264,21 +264,21 @@ conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.tex
 _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_
 
 ╔════════════════════
-║ *DONASI UNTUK ${BotName}*
+║ *DONASI UNTUK ${ilyasw}*
 ╠════════════════════
 ║╭──❉ *DONASI BOS* ❉─────
-║│➸ *OVO*: _${ovo}_
-║│➸ *DANA*: _${dana}_
-║│➸ *PULSA*: _${pulsa}_
-║│➸ *GOPAY*: _${gopay}_
+║│➸ *OVO*: _${0895-7042-83153}_
+║│➸ *DANA*: _${0895-7042-83153}_
+║│➸ *PULSA*: _${0895-7042-83153}_
+║│➸ *GOPAY*: _${0895-7042-83153}_
 ║╰──────────────────
 ╠════════════════════
-║         *${BotName}*
+║         *${ilyasw}*
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║  ▌│█║▌║▌║║▌║▌║█│▌
-║         *${BotName}*
+║         *${ilyasw}*
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //INFO
@@ -293,15 +293,15 @@ _“jauhilah api neraka, walau hanya dengan bersedekah sebiji kurma (sedikit). J
 ╔════════════════════
 ║───────⟪  *INFO* ⟫───────
 ╠════════════════════
-║➸️ Owner : *${ow}*
+║➸️ Owner : *${ilyasw}*
 ║➸️ Prefix:  *「 ! 」*
-║➸ Aktif : *${aktif} WIB*
-║➸ Group:  *${groupName}*
+║➸ Aktif : *${08.00-22.59} WIB*
+║➸ Group:  *${Bot}*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
 ║FOLLOW MY INSTAGRAM
@@ -374,7 +374,7 @@ Note : Jangan males membaca !!!
          ────────────────
 Note : Sisanya gunain otak kalian aja cape w jelasin :)
          ────────────────
-🔰 -----[ *POWERED BY RAMLAN ID* ]----- 🔰`,
+🔰 -----[ *POWERED BY Ilyas bot* ]----- 🔰`,
       contextInfo: { mentionedJid: [nomor] }
     }
     conn.sendMessage(id, options, MessageType.text, { quoted: m })
@@ -383,7 +383,7 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
   if (text.includes('!iklan')) {
     var nomor = m.participant
     const options = {
-      text: `*Hallo @${nomor.split("@s.whatsapp.net")[0]} I'm ${BotName}*
+      text: `*Hallo @${nomor.split("@s.whatsapp.net")[0]} I'm ${ilyasw}*
          ────────────────
 ➢ Official group 
   _${wa}_
@@ -405,9 +405,9 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
 ╠═══════════════════════════
 ║➣ *JIKA MINAT IKLAN DIATAS*
 ║➣ *HARAP HUBUNGI NOMOR DIBAWAH :*
-║➣ *☎️ WA : *085559240360*
+║➣ *☎️ WA : *0895704283153*
 
-🔰 -----[ *POWERED BY LANN ID* ]----- 🔰`,
+🔰 -----[ *POWERED BY ilyasw* ]----- 🔰`,
       contextInfo: { mentionedJid: [nomor] }
     }
     conn.sendMessage(id, options, MessageType.text, { quoted: m })
@@ -425,13 +425,13 @@ Note : Sisanya gunain otak kalian aja cape w jelasin :)
 ║➸ *!quotes*
 ║➸ *!bikinquote*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 /*SIMI
@@ -553,13 +553,13 @@ var teks = text.replace(/!ssweb /, '')
 ║➸ *!rules*
 ║➸ *!notif*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //TAGME
@@ -648,13 +648,13 @@ var teks = text.replace(/!ssweb /, '')
 ║➸ *!bolehkah*
 ║➸ *!kapan*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //PANTUN
@@ -844,15 +844,43 @@ if (messageType === MessageType.text)
     }
   };
 //KERANG AJAIB
-  if (text.includes('!apakah')) {
+  if (text.includes('!siapakah')) {
     const teks = text.replace(/!/, '')
     const truth = [
-      'Iya',
-      'Tidak',
-      'Bisa Jadi',
+      'inisial A',
+      'inisial C',
+      'inisial B',
       'Coba tanyakan lagi',
       'Mungkin',
-      '🤐']
+      'sahabat kamu',
+      'temen sekolah',
+      'temen maen',
+      'temen dekat',
+      'yang kamu suka',
+      'yang dia suka',
+      'inisial D',
+      'inisial E',
+      'inisial F',
+      'inisial G',
+      'inisial H',
+      'inisial I',
+      'inisial J',
+      'inisial K',
+      'inisial L',
+      'inisial M',
+      'inisial N',
+      'inisial O',
+      'inisial P',
+      'inisial Q',
+      'inisial R',
+      'inisial S',
+      'inisial T',
+      'inisial U',
+      'inisial V',
+      'inisial W',
+      'inisial X',
+      'inisial Y',
+      'inisial Z',]
     const ttrth = truth[Math.floor(Math.random() * truth.length)]
     conn.sendMessage(id, 'Pertanyaan : *' + teks + '*\n\nJawaban : ' + ttrth, MessageType.text, { quoted: m })
   }
@@ -927,13 +955,13 @@ if (messageType === MessageType.text)
 ║➸️ *!ig*
 ║➸️ *!fb*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //YT MP3
@@ -1030,13 +1058,13 @@ axios.get(`https://api.vhtear.com/fbdl?link=${teks}&apikey=${apivhtear}`).then((
 ║➸️ *!artimimpi*
 ║➸️ *!zodiak*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════ `, MessageType.text, { quoted: m });
   }
 //ARTI NAMA
@@ -1093,13 +1121,13 @@ axios.get(`https://api.vhtear.com/zodiak?query=${teks}&apikey=${apivhtear}`).the
 ║➸ *!wibu*
 ║➸ *!wphd*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //GACHA CEWEK
@@ -1353,13 +1381,13 @@ if (text.includes('!wibu')){
 ║➸ *!faktaunik*
 ║➸ *!Kbbi*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //BRAINLY
@@ -1444,13 +1472,13 @@ axios.get(`https://api.zeks.xyz/api/kbbi?q=${teks}&apikey=${vinzkey}`).then((res
 ║➸ *!chord*
 ║➸ *!map*
 ╠════════════════════
-║──────── *${BotName} ──────── 
+║──────── *${ilyasw} ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //JADWAL SHOLAT
@@ -1521,13 +1549,13 @@ axios.get(`https://api.zeks.xyz/api/kbbi?q=${teks}&apikey=${vinzkey}`).then((res
 ║➸ *!lovetext*
 ║➸ *!apitext*
 ╠════════════════════
-║──────── *${BotName}* ──────── 
+║──────── *${ilyasw}* ──────── 
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
 ║  ▌│█║▌║▌║║▌║▌║█│▌▌│█║
-║──────── *${BotName}* ────────
+║──────── *${ilyasw}* ────────
 ╠════════════════════
 ╠════════════════════
-║ _*POWERED BY ${ow}*_
+║ _*POWERED BY ${ilyasw}*_
 ╚════════════════════`, MessageType.text, { quoted: m });
   }
 //PORNHUB
